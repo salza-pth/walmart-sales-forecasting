@@ -62,19 +62,6 @@ The models were evaluated after aggregating the predictions at the store level.
 
 Linear Regression produced the better result after the predictions were aggregated at the store level. The model was able to capture the general relationship between store characteristics, macroeconomic factors, and total weekly sales.
 
-## Power BI Dashboard
-
-The project also includes a Power BI dashboard to explore Walmart sales performance.
-
-The dashboard covers:
-
-* Sales performance by store type.
-* Revenue by store.
-* Monthly and yearly sales trends.
-* Sales comparison between holiday and non-holiday weeks.
-* The relationship between temperature and sales.
-* Revenue contribution from different store locations.
-
 ## Main Findings
 
 Some of the main findings include:
